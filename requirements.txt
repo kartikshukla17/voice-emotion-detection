@@ -7,3 +7,8 @@ jupyter
 librosa
 soundfile
 ipython
+fastapi
+uvicorn[standard]
+python-multipart
+torch
+transformers
