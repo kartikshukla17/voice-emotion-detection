@@ -1,0 +1,19 @@
+# dataset (too large for git)
+Zenodo_processed/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# trained artifacts
+*.pkl
+
+# node / next
+node_modules/
+.next/
+.env.local
+
+# os
+.DS_Store
